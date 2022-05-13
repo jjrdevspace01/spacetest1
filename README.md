@@ -1,7 +1,7 @@
 # Space test 1
 
 ## Instructions
-### (please dont fork this repo when u provide your answer, dont give other applicants clues!)
+### Please dont fork this repo when u provide your answer, dont give other applicants clues!
 
 1. Render the cheapest 5 items on landing sorted by price
 2. A 'View All' button should be available that reveals all the items
