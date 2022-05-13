@@ -8,4 +8,4 @@
 4. Functional components must be used 
 5. The answer must be a full github public repo that can be cloned then installed and run by executing 'npm start' or 'yarn start'
 6. Feel free to add in any 3rd party libraries
-7. Feel free to make it look great any responsive styling framework
+7. Feel free to make it look great using any responsive styling framework
