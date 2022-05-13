@@ -9,3 +9,4 @@
 5. The answer must be a full github public repo that can be cloned then installed and run by executing 'npm start' or 'yarn start'
 6. Feel free to add in any 3rd party libraries
 7. Feel free to make it look great using any responsive styling framework
+8. Feel free to write tests and add anything else that you feel adds value
