@@ -4,11 +4,12 @@
 ### Please dont fork this repo when u provide your answer, dont give other applicants clues!
 
 1. Render the cheapest 5 items on landing sorted by price
-2. A 'View All' button should be available that reveals all the items
-3. Once all items are shown a 'Collapse' button should be shown that goes back to the cheapest 5 items and the 'View all' button should be shown again
-4. ES6/Javascript or Typescript using functional components must be used 
+2. User should beable to toggle between showing the cheapest 5 items and all items
+3. The user should be able to filter an item by name  
+4. Javascript or Typescript using functional components must be used to implement your solution
 5. The answer must be a full github public repo that can be cloned then installed and run by executing 'npm start' or 'yarn start'
-6. Feel free to add in any 3rd party libraries
-7. Feel free to make it look great using any responsive styling framework
-8. Feel free to write tests and add anything else that you feel adds value
-
+6. Add some 3rd party libraries if you feel like they are useful to deliver the requirement, show us your knowledge of the trends in modern development
+7. Show us your skills in styling your work, choose a framework or style from scratch, this can make a real difference
+8. Please show your knowledge around test driven development by writing tests and showing significant test coverage
+9. Pay attention to your naming conventions and patterns you are implementing
+ 
