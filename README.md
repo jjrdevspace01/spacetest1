@@ -12,4 +12,4 @@
 7. Show us your skills in styling your work, choose a framework or style from scratch, this can make a real difference
 8. Please show your knowledge around test driven development by writing tests and showing significant test coverage
 9. Pay attention to your naming conventions and patterns you are implementing
- 
+10. There is no time limit, we obviously want to see your result as soon as possible but take your time, show us some quality
