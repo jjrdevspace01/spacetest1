@@ -17,7 +17,7 @@
 
 ## Step 2
 
-Following the demo to the client of your proof of concept application above we have been asked to turn it into a working web application that also allows an end user to create an account/login, add sweets to their shopping basket and ultimately buy sweets and have them shipped. It would also include ways for the shop to be updated and managed by the client. Please do not develop any code for this, instead we would like an architechural design on how you would implement the solution and how it maybe delivered. 
+Following the demo to the client of your proof of concept application above we have been asked to turn it into a working online shop that also allows an end user to create an account/login, add sweets to their shopping basket and ultimately buy sweets and have them shipped. It would also include ways for the shop to be updated and managed by the client. Please do not develop any code for this, instead we would like an architechural design on how you would implement the solution and how it maybe delivered. 
 
 Some suggestions below on areas to be covered.
 
