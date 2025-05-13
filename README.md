@@ -17,7 +17,7 @@
 
 ## Step 2
 
-- Following the demo to the client of your proof of concept application above we have been asked to develop it further and make it possible to turn this into a working web application allowing an end user to create an account, add sweets to their shopping basket and ultimately buy sweets and have them shipped. Please do not develop any code for this, instead provide an architechural design on how you would implement this solution. Include a diagram and explaination on the different application parts, any cloud infrastructure or componenets you would use and methodology you would incorporate to help make this a successful project.
+- Following the demo to the client of your proof of concept application above we have been asked to turn it into a working web application that also allows an end user to create an account/login, add sweets to their shopping basket and ultimately buy sweets and have them shipped. Please do not develop any code for this, instead provide an architechural design on how you would implement this solution. Include a diagram and explaination on the different application parts, where data will be stored and how it will flow, any security considerations, any hosting/cloud infrastructure or componenets you would use and methodology you would incorporate to help make this a successful project.
 
 
 
