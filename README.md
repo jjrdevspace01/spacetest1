@@ -19,12 +19,12 @@
 
 Following the demo to the client of your proof of concept application above we have been asked to turn it into a working online shop that also allows an end user to create an account/login, add sweets to their shopping basket and ultimately buy sweets and have them shipped. It would also include ways for the shop to be updated and managed by the client. Please do not develop any code for this, instead we would like an architechural design on how you would implement the solution and how it maybe delivered. 
 
-Some suggestions below on areas to be covered.
+Some suggestions below on areas that you may want to cover
 
 1. A diagram and explaination on the different application parts.
 2. Where data will be stored and how it will flow.
 3. Any security considerations.
-4. Any hosting/cloud infrastructure or componenets you would use.
+4. Any hosting/cloud infrastructure or componenets you would use and how you would configure them.
 5. Methodology you would incorporate to help make this a successful project.
 
 
