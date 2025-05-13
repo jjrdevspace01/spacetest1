@@ -24,7 +24,7 @@ Some suggestions below on areas that you may want to cover
 1. A diagram and explaination on the different application parts.
 2. Where data will be stored and how it will flow.
 3. Any security considerations.
-4. Any hosting/cloud infrastructure or componenets you would use and how you would configure them.
+4. Any hosting/cloud infrastructure or components you would use and how you would configure them.
 5. Methodology you would incorporate to help make this a successful project.
 
 
